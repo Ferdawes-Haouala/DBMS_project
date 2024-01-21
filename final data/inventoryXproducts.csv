@@ -1,0 +1,1594 @@
+inventory_id,store_id,product_id,stock_on_hand,product_name,product_category,product_cost,product_price,profit
+0,1,1,27,Action Figure,Toys,9.99,15.99,6.0
+35,2,1,0,Action Figure,Toys,9.99,15.99,6.0
+64,3,1,17,Action Figure,Toys,9.99,15.99,6.0
+93,4,1,2,Action Figure,Toys,9.99,15.99,6.0
+128,5,1,8,Action Figure,Toys,9.99,15.99,6.0
+157,6,1,0,Action Figure,Toys,9.99,15.99,6.0
+192,7,1,14,Action Figure,Toys,9.99,15.99,6.0
+227,8,1,10,Action Figure,Toys,9.99,15.99,6.0
+262,9,1,15,Action Figure,Toys,9.99,15.99,6.0
+297,10,1,5,Action Figure,Toys,9.99,15.99,6.0
+332,11,1,19,Action Figure,Toys,9.99,15.99,6.0
+361,12,1,16,Action Figure,Toys,9.99,15.99,6.0
+396,13,1,0,Action Figure,Toys,9.99,15.99,6.0
+425,14,1,21,Action Figure,Toys,9.99,15.99,6.0
+454,15,1,24,Action Figure,Toys,9.99,15.99,6.0
+483,16,1,13,Action Figure,Toys,9.99,15.99,6.0
+518,17,1,22,Action Figure,Toys,9.99,15.99,6.0
+547,18,1,1,Action Figure,Toys,9.99,15.99,6.0
+582,19,1,5,Action Figure,Toys,9.99,15.99,6.0
+617,20,1,38,Action Figure,Toys,9.99,15.99,6.0
+646,21,1,7,Action Figure,Toys,9.99,15.99,6.0
+675,22,1,10,Action Figure,Toys,9.99,15.99,6.0
+710,23,1,4,Action Figure,Toys,9.99,15.99,6.0
+745,24,1,11,Action Figure,Toys,9.99,15.99,6.0
+780,25,1,8,Action Figure,Toys,9.99,15.99,6.0
+809,26,1,6,Action Figure,Toys,9.99,15.99,6.0
+844,27,1,27,Action Figure,Toys,9.99,15.99,6.0
+873,28,1,6,Action Figure,Toys,9.99,15.99,6.0
+902,29,1,2,Action Figure,Toys,9.99,15.99,6.0
+931,30,1,15,Action Figure,Toys,9.99,15.99,6.0
+960,31,1,5,Action Figure,Toys,9.99,15.99,6.0
+989,32,1,25,Action Figure,Toys,9.99,15.99,6.0
+1018,33,1,10,Action Figure,Toys,9.99,15.99,6.0
+1053,34,1,5,Action Figure,Toys,9.99,15.99,6.0
+1088,35,1,8,Action Figure,Toys,9.99,15.99,6.0
+1117,36,1,2,Action Figure,Toys,9.99,15.99,6.0
+1152,37,1,23,Action Figure,Toys,9.99,15.99,6.0
+1187,38,1,21,Action Figure,Toys,9.99,15.99,6.0
+1222,39,1,0,Action Figure,Toys,9.99,15.99,6.0
+1251,40,1,10,Action Figure,Toys,9.99,15.99,6.0
+1280,41,1,21,Action Figure,Toys,9.99,15.99,6.0
+1315,42,1,8,Action Figure,Toys,9.99,15.99,6.0
+1350,43,1,24,Action Figure,Toys,9.99,15.99,6.0
+1379,44,1,0,Action Figure,Toys,9.99,15.99,6.0
+1401,45,1,26,Action Figure,Toys,9.99,15.99,6.0
+1430,46,1,11,Action Figure,Toys,9.99,15.99,6.0
+1459,47,1,11,Action Figure,Toys,9.99,15.99,6.0
+1488,48,1,3,Action Figure,Toys,9.99,15.99,6.0
+1523,49,1,30,Action Figure,Toys,9.99,15.99,6.0
+1558,50,1,18,Action Figure,Toys,9.99,15.99,6.0
+1,1,2,0,Animal Figures,Toys,9.99,12.99,3.0
+36,2,2,6,Animal Figures,Toys,9.99,12.99,3.0
+65,3,2,8,Animal Figures,Toys,9.99,12.99,3.0
+94,4,2,18,Animal Figures,Toys,9.99,12.99,3.0
+129,5,2,14,Animal Figures,Toys,9.99,12.99,3.0
+158,6,2,47,Animal Figures,Toys,9.99,12.99,3.0
+193,7,2,7,Animal Figures,Toys,9.99,12.99,3.0
+228,8,2,11,Animal Figures,Toys,9.99,12.99,3.0
+263,9,2,18,Animal Figures,Toys,9.99,12.99,3.0
+298,10,2,17,Animal Figures,Toys,9.99,12.99,3.0
+333,11,2,18,Animal Figures,Toys,9.99,12.99,3.0
+362,12,2,16,Animal Figures,Toys,9.99,12.99,3.0
+397,13,2,2,Animal Figures,Toys,9.99,12.99,3.0
+426,14,2,5,Animal Figures,Toys,9.99,12.99,3.0
+455,15,2,5,Animal Figures,Toys,9.99,12.99,3.0
+484,16,2,28,Animal Figures,Toys,9.99,12.99,3.0
+519,17,2,15,Animal Figures,Toys,9.99,12.99,3.0
+548,18,2,12,Animal Figures,Toys,9.99,12.99,3.0
+583,19,2,14,Animal Figures,Toys,9.99,12.99,3.0
+618,20,2,2,Animal Figures,Toys,9.99,12.99,3.0
+647,21,2,24,Animal Figures,Toys,9.99,12.99,3.0
+676,22,2,25,Animal Figures,Toys,9.99,12.99,3.0
+711,23,2,11,Animal Figures,Toys,9.99,12.99,3.0
+746,24,2,25,Animal Figures,Toys,9.99,12.99,3.0
+781,25,2,18,Animal Figures,Toys,9.99,12.99,3.0
+810,26,2,15,Animal Figures,Toys,9.99,12.99,3.0
+845,27,2,30,Animal Figures,Toys,9.99,12.99,3.0
+874,28,2,0,Animal Figures,Toys,9.99,12.99,3.0
+903,29,2,15,Animal Figures,Toys,9.99,12.99,3.0
+932,30,2,30,Animal Figures,Toys,9.99,12.99,3.0
+961,31,2,36,Animal Figures,Toys,9.99,12.99,3.0
+990,32,2,10,Animal Figures,Toys,9.99,12.99,3.0
+1019,33,2,16,Animal Figures,Toys,9.99,12.99,3.0
+1054,34,2,25,Animal Figures,Toys,9.99,12.99,3.0
+1089,35,2,37,Animal Figures,Toys,9.99,12.99,3.0
+1118,36,2,26,Animal Figures,Toys,9.99,12.99,3.0
+1153,37,2,3,Animal Figures,Toys,9.99,12.99,3.0
+1188,38,2,34,Animal Figures,Toys,9.99,12.99,3.0
+1223,39,2,9,Animal Figures,Toys,9.99,12.99,3.0
+1252,40,2,29,Animal Figures,Toys,9.99,12.99,3.0
+1281,41,2,19,Animal Figures,Toys,9.99,12.99,3.0
+1316,42,2,10,Animal Figures,Toys,9.99,12.99,3.0
+1351,43,2,8,Animal Figures,Toys,9.99,12.99,3.0
+1380,44,2,4,Animal Figures,Toys,9.99,12.99,3.0
+1402,45,2,23,Animal Figures,Toys,9.99,12.99,3.0
+1431,46,2,3,Animal Figures,Toys,9.99,12.99,3.0
+1460,47,2,15,Animal Figures,Toys,9.99,12.99,3.0
+1489,48,2,23,Animal Figures,Toys,9.99,12.99,3.0
+1524,49,2,0,Animal Figures,Toys,9.99,12.99,3.0
+1559,50,2,49,Animal Figures,Toys,9.99,12.99,3.0
+2,1,3,32,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+37,2,3,18,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+66,3,3,35,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+95,4,3,6,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+130,5,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+159,6,3,20,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+194,7,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+229,8,3,8,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+264,9,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+299,10,3,15,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+334,11,3,18,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+363,12,3,44,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+398,13,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+427,14,3,22,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+456,15,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+485,16,3,37,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+520,17,3,8,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+549,18,3,64,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+584,19,3,7,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+619,20,3,24,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+648,21,3,74,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+677,22,3,0,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+712,23,3,5,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+747,24,3,13,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+782,25,3,43,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+811,26,3,15,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+846,27,3,55,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+875,28,3,60,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+904,29,3,17,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+933,30,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+962,31,3,36,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+991,32,3,45,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1020,33,3,21,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1055,34,3,17,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1090,35,3,12,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1119,36,3,26,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1154,37,3,4,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1189,38,3,54,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1224,39,3,13,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1253,40,3,9,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1282,41,3,63,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1317,42,3,32,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1352,43,3,20,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1381,44,3,19,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1403,45,3,63,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1432,46,3,24,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1461,47,3,74,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1490,48,3,35,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1525,49,3,14,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+1560,50,3,22,Barrel O' Slime,Art & Crafts,1.99,3.99,2.0
+3,1,4,6,Chutes & Ladders,Games,9.99,12.99,3.0
+96,4,4,2,Chutes & Ladders,Games,9.99,12.99,3.0
+160,6,4,14,Chutes & Ladders,Games,9.99,12.99,3.0
+195,7,4,17,Chutes & Ladders,Games,9.99,12.99,3.0
+230,8,4,18,Chutes & Ladders,Games,9.99,12.99,3.0
+265,9,4,6,Chutes & Ladders,Games,9.99,12.99,3.0
+300,10,4,17,Chutes & Ladders,Games,9.99,12.99,3.0
+364,12,4,8,Chutes & Ladders,Games,9.99,12.99,3.0
+486,16,4,7,Chutes & Ladders,Games,9.99,12.99,3.0
+550,18,4,10,Chutes & Ladders,Games,9.99,12.99,3.0
+585,19,4,18,Chutes & Ladders,Games,9.99,12.99,3.0
+678,22,4,6,Chutes & Ladders,Games,9.99,12.99,3.0
+713,23,4,3,Chutes & Ladders,Games,9.99,12.99,3.0
+748,24,4,1,Chutes & Ladders,Games,9.99,12.99,3.0
+812,26,4,12,Chutes & Ladders,Games,9.99,12.99,3.0
+1021,33,4,15,Chutes & Ladders,Games,9.99,12.99,3.0
+1056,34,4,15,Chutes & Ladders,Games,9.99,12.99,3.0
+1120,36,4,0,Chutes & Ladders,Games,9.99,12.99,3.0
+1155,37,4,4,Chutes & Ladders,Games,9.99,12.99,3.0
+1190,38,4,15,Chutes & Ladders,Games,9.99,12.99,3.0
+1283,41,4,0,Chutes & Ladders,Games,9.99,12.99,3.0
+1318,42,4,11,Chutes & Ladders,Games,9.99,12.99,3.0
+1491,48,4,15,Chutes & Ladders,Games,9.99,12.99,3.0
+1526,49,4,19,Chutes & Ladders,Games,9.99,12.99,3.0
+1561,50,4,16,Chutes & Ladders,Games,9.99,12.99,3.0
+4,1,5,0,Classic Dominoes,Games,7.99,9.99,2.0
+97,4,5,14,Classic Dominoes,Games,7.99,9.99,2.0
+161,6,5,8,Classic Dominoes,Games,7.99,9.99,2.0
+196,7,5,19,Classic Dominoes,Games,7.99,9.99,2.0
+231,8,5,10,Classic Dominoes,Games,7.99,9.99,2.0
+266,9,5,3,Classic Dominoes,Games,7.99,9.99,2.0
+301,10,5,4,Classic Dominoes,Games,7.99,9.99,2.0
+365,12,5,17,Classic Dominoes,Games,7.99,9.99,2.0
+487,16,5,14,Classic Dominoes,Games,7.99,9.99,2.0
+551,18,5,7,Classic Dominoes,Games,7.99,9.99,2.0
+586,19,5,17,Classic Dominoes,Games,7.99,9.99,2.0
+679,22,5,14,Classic Dominoes,Games,7.99,9.99,2.0
+714,23,5,4,Classic Dominoes,Games,7.99,9.99,2.0
+749,24,5,4,Classic Dominoes,Games,7.99,9.99,2.0
+813,26,5,8,Classic Dominoes,Games,7.99,9.99,2.0
+1022,33,5,7,Classic Dominoes,Games,7.99,9.99,2.0
+1057,34,5,7,Classic Dominoes,Games,7.99,9.99,2.0
+1121,36,5,3,Classic Dominoes,Games,7.99,9.99,2.0
+1156,37,5,2,Classic Dominoes,Games,7.99,9.99,2.0
+1191,38,5,20,Classic Dominoes,Games,7.99,9.99,2.0
+1284,41,5,8,Classic Dominoes,Games,7.99,9.99,2.0
+1319,42,5,12,Classic Dominoes,Games,7.99,9.99,2.0
+1382,44,5,14,Classic Dominoes,Games,7.99,9.99,2.0
+1492,48,5,9,Classic Dominoes,Games,7.99,9.99,2.0
+1527,49,5,13,Classic Dominoes,Games,7.99,9.99,2.0
+1562,50,5,3,Classic Dominoes,Games,7.99,9.99,2.0
+5,1,6,79,Colorbuds,Electronics,6.99,14.99,8.0
+38,2,6,6,Colorbuds,Electronics,6.99,14.99,8.0
+67,3,6,21,Colorbuds,Electronics,6.99,14.99,8.0
+98,4,6,44,Colorbuds,Electronics,6.99,14.99,8.0
+131,5,6,12,Colorbuds,Electronics,6.99,14.99,8.0
+162,6,6,32,Colorbuds,Electronics,6.99,14.99,8.0
+197,7,6,10,Colorbuds,Electronics,6.99,14.99,8.0
+232,8,6,12,Colorbuds,Electronics,6.99,14.99,8.0
+267,9,6,55,Colorbuds,Electronics,6.99,14.99,8.0
+302,10,6,24,Colorbuds,Electronics,6.99,14.99,8.0
+335,11,6,32,Colorbuds,Electronics,6.99,14.99,8.0
+366,12,6,23,Colorbuds,Electronics,6.99,14.99,8.0
+399,13,6,14,Colorbuds,Electronics,6.99,14.99,8.0
+428,14,6,18,Colorbuds,Electronics,6.99,14.99,8.0
+457,15,6,29,Colorbuds,Electronics,6.99,14.99,8.0
+488,16,6,27,Colorbuds,Electronics,6.99,14.99,8.0
+521,17,6,16,Colorbuds,Electronics,6.99,14.99,8.0
+552,18,6,22,Colorbuds,Electronics,6.99,14.99,8.0
+587,19,6,11,Colorbuds,Electronics,6.99,14.99,8.0
+620,20,6,4,Colorbuds,Electronics,6.99,14.99,8.0
+649,21,6,10,Colorbuds,Electronics,6.99,14.99,8.0
+680,22,6,8,Colorbuds,Electronics,6.99,14.99,8.0
+715,23,6,17,Colorbuds,Electronics,6.99,14.99,8.0
+750,24,6,46,Colorbuds,Electronics,6.99,14.99,8.0
+783,25,6,3,Colorbuds,Electronics,6.99,14.99,8.0
+814,26,6,23,Colorbuds,Electronics,6.99,14.99,8.0
+847,27,6,7,Colorbuds,Electronics,6.99,14.99,8.0
+876,28,6,16,Colorbuds,Electronics,6.99,14.99,8.0
+905,29,6,17,Colorbuds,Electronics,6.99,14.99,8.0
+934,30,6,18,Colorbuds,Electronics,6.99,14.99,8.0
+963,31,6,41,Colorbuds,Electronics,6.99,14.99,8.0
+992,32,6,65,Colorbuds,Electronics,6.99,14.99,8.0
+1023,33,6,8,Colorbuds,Electronics,6.99,14.99,8.0
+1058,34,6,24,Colorbuds,Electronics,6.99,14.99,8.0
+1091,35,6,31,Colorbuds,Electronics,6.99,14.99,8.0
+1122,36,6,27,Colorbuds,Electronics,6.99,14.99,8.0
+1157,37,6,17,Colorbuds,Electronics,6.99,14.99,8.0
+1192,38,6,54,Colorbuds,Electronics,6.99,14.99,8.0
+1225,39,6,11,Colorbuds,Electronics,6.99,14.99,8.0
+1254,40,6,29,Colorbuds,Electronics,6.99,14.99,8.0
+1285,41,6,7,Colorbuds,Electronics,6.99,14.99,8.0
+1320,42,6,29,Colorbuds,Electronics,6.99,14.99,8.0
+1353,43,6,18,Colorbuds,Electronics,6.99,14.99,8.0
+1383,44,6,2,Colorbuds,Electronics,6.99,14.99,8.0
+1404,45,6,8,Colorbuds,Electronics,6.99,14.99,8.0
+1433,46,6,65,Colorbuds,Electronics,6.99,14.99,8.0
+1462,47,6,11,Colorbuds,Electronics,6.99,14.99,8.0
+1493,48,6,6,Colorbuds,Electronics,6.99,14.99,8.0
+1528,49,6,23,Colorbuds,Electronics,6.99,14.99,8.0
+1563,50,6,27,Colorbuds,Electronics,6.99,14.99,8.0
+6,1,7,5,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+39,2,7,14,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+68,3,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+99,4,7,9,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+132,5,7,30,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+163,6,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+198,7,7,1,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+233,8,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+268,9,7,22,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+303,10,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+336,11,7,19,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+367,12,7,11,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+400,13,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+429,14,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+458,15,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+489,16,7,19,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+522,17,7,20,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+553,18,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+588,19,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+621,20,7,9,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+650,21,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+681,22,7,30,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+716,23,7,11,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+751,24,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+784,25,7,7,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+815,26,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+848,27,7,22,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+877,28,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+906,29,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+935,30,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+964,31,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+993,32,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1024,33,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1059,34,7,5,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1092,35,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1123,36,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1158,37,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1193,38,7,84,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1226,39,7,21,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1255,40,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1286,41,7,14,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1321,42,7,7,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1354,43,7,25,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1384,44,7,17,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1405,45,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1434,46,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1463,47,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1494,48,7,28,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1529,49,7,24,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+1564,50,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,4.0
+7,1,8,63,Deck Of Cards,Games,3.99,6.99,3.0
+40,2,8,76,Deck Of Cards,Games,3.99,6.99,3.0
+69,3,8,44,Deck Of Cards,Games,3.99,6.99,3.0
+100,4,8,15,Deck Of Cards,Games,3.99,6.99,3.0
+133,5,8,27,Deck Of Cards,Games,3.99,6.99,3.0
+164,6,8,50,Deck Of Cards,Games,3.99,6.99,3.0
+199,7,8,46,Deck Of Cards,Games,3.99,6.99,3.0
+234,8,8,42,Deck Of Cards,Games,3.99,6.99,3.0
+269,9,8,29,Deck Of Cards,Games,3.99,6.99,3.0
+304,10,8,73,Deck Of Cards,Games,3.99,6.99,3.0
+337,11,8,64,Deck Of Cards,Games,3.99,6.99,3.0
+368,12,8,61,Deck Of Cards,Games,3.99,6.99,3.0
+401,13,8,66,Deck Of Cards,Games,3.99,6.99,3.0
+430,14,8,57,Deck Of Cards,Games,3.99,6.99,3.0
+459,15,8,40,Deck Of Cards,Games,3.99,6.99,3.0
+490,16,8,18,Deck Of Cards,Games,3.99,6.99,3.0
+523,17,8,20,Deck Of Cards,Games,3.99,6.99,3.0
+554,18,8,52,Deck Of Cards,Games,3.99,6.99,3.0
+589,19,8,84,Deck Of Cards,Games,3.99,6.99,3.0
+622,20,8,26,Deck Of Cards,Games,3.99,6.99,3.0
+651,21,8,11,Deck Of Cards,Games,3.99,6.99,3.0
+682,22,8,71,Deck Of Cards,Games,3.99,6.99,3.0
+717,23,8,32,Deck Of Cards,Games,3.99,6.99,3.0
+752,24,8,53,Deck Of Cards,Games,3.99,6.99,3.0
+785,25,8,66,Deck Of Cards,Games,3.99,6.99,3.0
+816,26,8,22,Deck Of Cards,Games,3.99,6.99,3.0
+849,27,8,12,Deck Of Cards,Games,3.99,6.99,3.0
+878,28,8,45,Deck Of Cards,Games,3.99,6.99,3.0
+907,29,8,10,Deck Of Cards,Games,3.99,6.99,3.0
+936,30,8,110,Deck Of Cards,Games,3.99,6.99,3.0
+965,31,8,84,Deck Of Cards,Games,3.99,6.99,3.0
+994,32,8,56,Deck Of Cards,Games,3.99,6.99,3.0
+1025,33,8,66,Deck Of Cards,Games,3.99,6.99,3.0
+1060,34,8,68,Deck Of Cards,Games,3.99,6.99,3.0
+1093,35,8,77,Deck Of Cards,Games,3.99,6.99,3.0
+1124,36,8,58,Deck Of Cards,Games,3.99,6.99,3.0
+1159,37,8,129,Deck Of Cards,Games,3.99,6.99,3.0
+1194,38,8,94,Deck Of Cards,Games,3.99,6.99,3.0
+1227,39,8,90,Deck Of Cards,Games,3.99,6.99,3.0
+1256,40,8,61,Deck Of Cards,Games,3.99,6.99,3.0
+1287,41,8,32,Deck Of Cards,Games,3.99,6.99,3.0
+1322,42,8,54,Deck Of Cards,Games,3.99,6.99,3.0
+1355,43,8,71,Deck Of Cards,Games,3.99,6.99,3.0
+1385,44,8,33,Deck Of Cards,Games,3.99,6.99,3.0
+1406,45,8,8,Deck Of Cards,Games,3.99,6.99,3.0
+1435,46,8,74,Deck Of Cards,Games,3.99,6.99,3.0
+1464,47,8,70,Deck Of Cards,Games,3.99,6.99,3.0
+1495,48,8,100,Deck Of Cards,Games,3.99,6.99,3.0
+1530,49,8,77,Deck Of Cards,Games,3.99,6.99,3.0
+1565,50,8,51,Deck Of Cards,Games,3.99,6.99,3.0
+8,1,9,12,Dino Egg,Toys,9.99,10.99,1.0
+41,2,9,0,Dino Egg,Toys,9.99,10.99,1.0
+70,3,9,4,Dino Egg,Toys,9.99,10.99,1.0
+101,4,9,27,Dino Egg,Toys,9.99,10.99,1.0
+134,5,9,31,Dino Egg,Toys,9.99,10.99,1.0
+165,6,9,3,Dino Egg,Toys,9.99,10.99,1.0
+200,7,9,0,Dino Egg,Toys,9.99,10.99,1.0
+235,8,9,0,Dino Egg,Toys,9.99,10.99,1.0
+270,9,9,50,Dino Egg,Toys,9.99,10.99,1.0
+305,10,9,10,Dino Egg,Toys,9.99,10.99,1.0
+338,11,9,13,Dino Egg,Toys,9.99,10.99,1.0
+369,12,9,14,Dino Egg,Toys,9.99,10.99,1.0
+402,13,9,0,Dino Egg,Toys,9.99,10.99,1.0
+431,14,9,10,Dino Egg,Toys,9.99,10.99,1.0
+460,15,9,26,Dino Egg,Toys,9.99,10.99,1.0
+491,16,9,8,Dino Egg,Toys,9.99,10.99,1.0
+524,17,9,7,Dino Egg,Toys,9.99,10.99,1.0
+555,18,9,50,Dino Egg,Toys,9.99,10.99,1.0
+590,19,9,8,Dino Egg,Toys,9.99,10.99,1.0
+623,20,9,9,Dino Egg,Toys,9.99,10.99,1.0
+652,21,9,26,Dino Egg,Toys,9.99,10.99,1.0
+683,22,9,14,Dino Egg,Toys,9.99,10.99,1.0
+718,23,9,9,Dino Egg,Toys,9.99,10.99,1.0
+753,24,9,19,Dino Egg,Toys,9.99,10.99,1.0
+786,25,9,9,Dino Egg,Toys,9.99,10.99,1.0
+817,26,9,15,Dino Egg,Toys,9.99,10.99,1.0
+850,27,9,6,Dino Egg,Toys,9.99,10.99,1.0
+879,28,9,7,Dino Egg,Toys,9.99,10.99,1.0
+908,29,9,6,Dino Egg,Toys,9.99,10.99,1.0
+937,30,9,59,Dino Egg,Toys,9.99,10.99,1.0
+966,31,9,10,Dino Egg,Toys,9.99,10.99,1.0
+995,32,9,3,Dino Egg,Toys,9.99,10.99,1.0
+1026,33,9,3,Dino Egg,Toys,9.99,10.99,1.0
+1061,34,9,0,Dino Egg,Toys,9.99,10.99,1.0
+1094,35,9,4,Dino Egg,Toys,9.99,10.99,1.0
+1125,36,9,19,Dino Egg,Toys,9.99,10.99,1.0
+1160,37,9,10,Dino Egg,Toys,9.99,10.99,1.0
+1195,38,9,6,Dino Egg,Toys,9.99,10.99,1.0
+1228,39,9,6,Dino Egg,Toys,9.99,10.99,1.0
+1257,40,9,11,Dino Egg,Toys,9.99,10.99,1.0
+1288,41,9,18,Dino Egg,Toys,9.99,10.99,1.0
+1323,42,9,30,Dino Egg,Toys,9.99,10.99,1.0
+1356,43,9,4,Dino Egg,Toys,9.99,10.99,1.0
+1407,45,9,0,Dino Egg,Toys,9.99,10.99,1.0
+1436,46,9,22,Dino Egg,Toys,9.99,10.99,1.0
+1465,47,9,6,Dino Egg,Toys,9.99,10.99,1.0
+1496,48,9,13,Dino Egg,Toys,9.99,10.99,1.0
+1531,49,9,25,Dino Egg,Toys,9.99,10.99,1.0
+1566,50,9,7,Dino Egg,Toys,9.99,10.99,1.0
+9,1,10,22,Dinosaur Figures,Toys,10.99,14.99,4.0
+42,2,10,10,Dinosaur Figures,Toys,10.99,14.99,4.0
+71,3,10,54,Dinosaur Figures,Toys,10.99,14.99,4.0
+102,4,10,8,Dinosaur Figures,Toys,10.99,14.99,4.0
+135,5,10,39,Dinosaur Figures,Toys,10.99,14.99,4.0
+166,6,10,52,Dinosaur Figures,Toys,10.99,14.99,4.0
+201,7,10,36,Dinosaur Figures,Toys,10.99,14.99,4.0
+236,8,10,54,Dinosaur Figures,Toys,10.99,14.99,4.0
+271,9,10,69,Dinosaur Figures,Toys,10.99,14.99,4.0
+306,10,10,57,Dinosaur Figures,Toys,10.99,14.99,4.0
+339,11,10,17,Dinosaur Figures,Toys,10.99,14.99,4.0
+370,12,10,17,Dinosaur Figures,Toys,10.99,14.99,4.0
+403,13,10,84,Dinosaur Figures,Toys,10.99,14.99,4.0
+432,14,10,32,Dinosaur Figures,Toys,10.99,14.99,4.0
+461,15,10,39,Dinosaur Figures,Toys,10.99,14.99,4.0
+492,16,10,43,Dinosaur Figures,Toys,10.99,14.99,4.0
+525,17,10,67,Dinosaur Figures,Toys,10.99,14.99,4.0
+556,18,10,16,Dinosaur Figures,Toys,10.99,14.99,4.0
+591,19,10,45,Dinosaur Figures,Toys,10.99,14.99,4.0
+624,20,10,34,Dinosaur Figures,Toys,10.99,14.99,4.0
+653,21,10,13,Dinosaur Figures,Toys,10.99,14.99,4.0
+684,22,10,64,Dinosaur Figures,Toys,10.99,14.99,4.0
+719,23,10,35,Dinosaur Figures,Toys,10.99,14.99,4.0
+754,24,10,19,Dinosaur Figures,Toys,10.99,14.99,4.0
+787,25,10,8,Dinosaur Figures,Toys,10.99,14.99,4.0
+818,26,10,25,Dinosaur Figures,Toys,10.99,14.99,4.0
+851,27,10,45,Dinosaur Figures,Toys,10.99,14.99,4.0
+880,28,10,8,Dinosaur Figures,Toys,10.99,14.99,4.0
+909,29,10,45,Dinosaur Figures,Toys,10.99,14.99,4.0
+938,30,10,55,Dinosaur Figures,Toys,10.99,14.99,4.0
+967,31,10,139,Dinosaur Figures,Toys,10.99,14.99,4.0
+996,32,10,138,Dinosaur Figures,Toys,10.99,14.99,4.0
+1027,33,10,12,Dinosaur Figures,Toys,10.99,14.99,4.0
+1062,34,10,57,Dinosaur Figures,Toys,10.99,14.99,4.0
+1095,35,10,86,Dinosaur Figures,Toys,10.99,14.99,4.0
+1126,36,10,33,Dinosaur Figures,Toys,10.99,14.99,4.0
+1161,37,10,34,Dinosaur Figures,Toys,10.99,14.99,4.0
+1196,38,10,68,Dinosaur Figures,Toys,10.99,14.99,4.0
+1229,39,10,49,Dinosaur Figures,Toys,10.99,14.99,4.0
+1258,40,10,66,Dinosaur Figures,Toys,10.99,14.99,4.0
+1289,41,10,94,Dinosaur Figures,Toys,10.99,14.99,4.0
+1324,42,10,39,Dinosaur Figures,Toys,10.99,14.99,4.0
+1357,43,10,49,Dinosaur Figures,Toys,10.99,14.99,4.0
+1386,44,10,41,Dinosaur Figures,Toys,10.99,14.99,4.0
+1408,45,10,42,Dinosaur Figures,Toys,10.99,14.99,4.0
+1437,46,10,71,Dinosaur Figures,Toys,10.99,14.99,4.0
+1466,47,10,20,Dinosaur Figures,Toys,10.99,14.99,4.0
+1497,48,10,52,Dinosaur Figures,Toys,10.99,14.99,4.0
+1532,49,10,36,Dinosaur Figures,Toys,10.99,14.99,4.0
+1567,50,10,34,Dinosaur Figures,Toys,10.99,14.99,4.0
+10,1,11,19,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+43,2,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+72,3,11,13,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+103,4,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+136,5,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+167,6,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+202,7,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+237,8,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+272,9,11,1,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+307,10,11,9,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+340,11,11,9,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+371,12,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+404,13,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+433,14,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+462,15,11,28,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+493,16,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+526,17,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+557,18,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+592,19,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+625,20,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+654,21,11,11,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+685,22,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+720,23,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+755,24,11,13,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+788,25,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+819,26,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+852,27,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+881,28,11,4,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+910,29,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+939,30,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+968,31,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+997,32,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1028,33,11,4,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1063,34,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1096,35,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1127,36,11,1,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1162,37,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1197,38,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1230,39,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1259,40,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1290,41,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1325,42,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1358,43,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1387,44,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1409,45,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1438,46,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1467,47,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1498,48,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1533,49,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+1568,50,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,9.999999999999998
+11,1,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+44,2,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+73,3,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+104,4,12,7,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+137,5,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+168,6,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+203,7,12,38,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+238,8,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+273,9,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+308,10,12,15,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+341,11,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+372,12,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+405,13,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+434,14,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+463,15,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+494,16,12,12,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+527,17,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+558,18,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+593,19,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+626,20,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+655,21,12,21,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+686,22,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+721,23,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+756,24,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+789,25,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+820,26,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+853,27,12,5,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+882,28,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+911,29,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+940,30,12,8,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+969,31,12,13,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+998,32,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1029,33,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1064,34,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1097,35,12,15,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1128,36,12,1,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1163,37,12,11,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1198,38,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1231,39,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1260,40,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1291,41,12,19,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1326,42,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1359,43,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1410,45,12,8,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1439,46,12,13,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1468,47,12,5,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1499,48,12,1,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1534,49,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+1569,50,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,3.0
+12,1,13,12,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+45,2,13,3,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+74,3,13,8,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+105,4,13,4,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+138,5,13,17,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+169,6,13,2,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+204,7,13,20,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+239,8,13,0,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+274,9,13,19,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+309,10,13,17,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+342,11,13,2,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+373,12,13,15,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+406,13,13,14,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+435,14,13,14,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+464,15,13,13,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+495,16,13,5,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+528,17,13,16,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+559,18,13,30,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+594,19,13,7,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+627,20,13,11,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+656,21,13,5,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+687,22,13,19,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+722,23,13,31,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+757,24,13,10,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+790,25,13,23,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+821,26,13,20,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+854,27,13,10,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+883,28,13,2,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+912,29,13,5,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+941,30,13,18,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+970,31,13,19,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+999,32,13,13,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1030,33,13,0,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1065,34,13,3,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1098,35,13,3,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1129,36,13,18,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1164,37,13,21,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1199,38,13,21,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1232,39,13,15,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1261,40,13,2,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1292,41,13,6,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1327,42,13,7,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1360,43,13,12,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1411,45,13,15,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1440,46,13,6,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1469,47,13,15,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1500,48,13,56,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1535,49,13,18,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+1570,50,13,15,Gamer Headphones,Electronics,14.99,20.99,5.999999999999998
+13,1,14,3,Glass Marbles,Games,5.99,10.99,5.0
+46,2,14,21,Glass Marbles,Games,5.99,10.99,5.0
+75,3,14,4,Glass Marbles,Games,5.99,10.99,5.0
+106,4,14,4,Glass Marbles,Games,5.99,10.99,5.0
+139,5,14,14,Glass Marbles,Games,5.99,10.99,5.0
+170,6,14,11,Glass Marbles,Games,5.99,10.99,5.0
+205,7,14,3,Glass Marbles,Games,5.99,10.99,5.0
+240,8,14,0,Glass Marbles,Games,5.99,10.99,5.0
+275,9,14,11,Glass Marbles,Games,5.99,10.99,5.0
+310,10,14,4,Glass Marbles,Games,5.99,10.99,5.0
+343,11,14,18,Glass Marbles,Games,5.99,10.99,5.0
+374,12,14,13,Glass Marbles,Games,5.99,10.99,5.0
+407,13,14,21,Glass Marbles,Games,5.99,10.99,5.0
+436,14,14,4,Glass Marbles,Games,5.99,10.99,5.0
+465,15,14,20,Glass Marbles,Games,5.99,10.99,5.0
+496,16,14,19,Glass Marbles,Games,5.99,10.99,5.0
+529,17,14,4,Glass Marbles,Games,5.99,10.99,5.0
+560,18,14,67,Glass Marbles,Games,5.99,10.99,5.0
+595,19,14,4,Glass Marbles,Games,5.99,10.99,5.0
+628,20,14,6,Glass Marbles,Games,5.99,10.99,5.0
+657,21,14,4,Glass Marbles,Games,5.99,10.99,5.0
+688,22,14,5,Glass Marbles,Games,5.99,10.99,5.0
+723,23,14,7,Glass Marbles,Games,5.99,10.99,5.0
+758,24,14,36,Glass Marbles,Games,5.99,10.99,5.0
+791,25,14,20,Glass Marbles,Games,5.99,10.99,5.0
+822,26,14,2,Glass Marbles,Games,5.99,10.99,5.0
+855,27,14,21,Glass Marbles,Games,5.99,10.99,5.0
+884,28,14,17,Glass Marbles,Games,5.99,10.99,5.0
+913,29,14,5,Glass Marbles,Games,5.99,10.99,5.0
+942,30,14,10,Glass Marbles,Games,5.99,10.99,5.0
+971,31,14,9,Glass Marbles,Games,5.99,10.99,5.0
+1000,32,14,27,Glass Marbles,Games,5.99,10.99,5.0
+1031,33,14,11,Glass Marbles,Games,5.99,10.99,5.0
+1066,34,14,5,Glass Marbles,Games,5.99,10.99,5.0
+1099,35,14,38,Glass Marbles,Games,5.99,10.99,5.0
+1130,36,14,110,Glass Marbles,Games,5.99,10.99,5.0
+1165,37,14,5,Glass Marbles,Games,5.99,10.99,5.0
+1200,38,14,7,Glass Marbles,Games,5.99,10.99,5.0
+1233,39,14,12,Glass Marbles,Games,5.99,10.99,5.0
+1262,40,14,13,Glass Marbles,Games,5.99,10.99,5.0
+1293,41,14,6,Glass Marbles,Games,5.99,10.99,5.0
+1328,42,14,13,Glass Marbles,Games,5.99,10.99,5.0
+1361,43,14,16,Glass Marbles,Games,5.99,10.99,5.0
+1388,44,14,7,Glass Marbles,Games,5.99,10.99,5.0
+1412,45,14,18,Glass Marbles,Games,5.99,10.99,5.0
+1441,46,14,29,Glass Marbles,Games,5.99,10.99,5.0
+1470,47,14,11,Glass Marbles,Games,5.99,10.99,5.0
+1501,48,14,11,Glass Marbles,Games,5.99,10.99,5.0
+1536,49,14,37,Glass Marbles,Games,5.99,10.99,5.0
+1571,50,14,32,Glass Marbles,Games,5.99,10.99,5.0
+14,1,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+47,2,15,20,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+76,3,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+107,4,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+140,5,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+171,6,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+206,7,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+241,8,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+276,9,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+311,10,15,13,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+344,11,15,7,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+375,12,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+408,13,15,27,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+437,14,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+466,15,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+497,16,15,1,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+530,17,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+561,18,15,5,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+596,19,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+629,20,15,36,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+658,21,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+689,22,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+724,23,15,14,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+759,24,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+792,25,15,13,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+823,26,15,20,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+856,27,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+885,28,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+914,29,15,18,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+943,30,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+972,31,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1001,32,15,27,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1032,33,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1067,34,15,10,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1100,35,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1131,36,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1166,37,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1201,38,15,5,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1234,39,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1263,40,15,1,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1294,41,15,6,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1329,42,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1362,43,15,10,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1389,44,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1413,45,15,19,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1442,46,15,6,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1471,47,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1502,48,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1537,49,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+1572,50,15,16,Hot Wheels 5-Pack,Toys,3.99,5.99,2.0
+15,1,16,8,Jenga,Games,2.99,9.99,7.0
+108,4,16,8,Jenga,Games,2.99,9.99,7.0
+172,6,16,10,Jenga,Games,2.99,9.99,7.0
+207,7,16,6,Jenga,Games,2.99,9.99,7.0
+242,8,16,8,Jenga,Games,2.99,9.99,7.0
+277,9,16,5,Jenga,Games,2.99,9.99,7.0
+312,10,16,1,Jenga,Games,2.99,9.99,7.0
+376,12,16,14,Jenga,Games,2.99,9.99,7.0
+498,16,16,14,Jenga,Games,2.99,9.99,7.0
+562,18,16,10,Jenga,Games,2.99,9.99,7.0
+597,19,16,2,Jenga,Games,2.99,9.99,7.0
+690,22,16,3,Jenga,Games,2.99,9.99,7.0
+725,23,16,7,Jenga,Games,2.99,9.99,7.0
+760,24,16,3,Jenga,Games,2.99,9.99,7.0
+824,26,16,20,Jenga,Games,2.99,9.99,7.0
+1033,33,16,5,Jenga,Games,2.99,9.99,7.0
+1068,34,16,7,Jenga,Games,2.99,9.99,7.0
+1132,36,16,7,Jenga,Games,2.99,9.99,7.0
+1167,37,16,6,Jenga,Games,2.99,9.99,7.0
+1202,38,16,6,Jenga,Games,2.99,9.99,7.0
+1295,41,16,17,Jenga,Games,2.99,9.99,7.0
+1330,42,16,0,Jenga,Games,2.99,9.99,7.0
+1390,44,16,3,Jenga,Games,2.99,9.99,7.0
+1503,48,16,5,Jenga,Games,2.99,9.99,7.0
+1538,49,16,1,Jenga,Games,2.99,9.99,7.0
+1573,50,16,5,Jenga,Games,2.99,9.99,7.0
+16,1,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+48,2,17,12,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+77,3,17,1,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+109,4,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+141,5,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+173,6,17,22,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+208,7,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+243,8,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+278,9,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+313,10,17,3,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+345,11,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+377,12,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+409,13,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+438,14,17,14,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+467,15,17,24,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+499,16,17,14,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+531,17,17,27,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+563,18,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+598,19,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+630,20,17,23,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+659,21,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+691,22,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+726,23,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+761,24,17,27,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+793,25,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+825,26,17,6,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+857,27,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+886,28,17,17,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+915,29,17,25,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+944,30,17,13,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+973,31,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1002,32,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1034,33,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1069,34,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1101,35,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1133,36,17,12,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1168,37,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1203,38,17,24,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1235,39,17,35,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1264,40,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1296,41,17,3,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1331,42,17,11,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1363,43,17,18,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1391,44,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1414,45,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1443,46,17,40,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1472,47,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1504,48,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1539,49,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+1574,50,17,6,Kids Makeup Kit,Art & Crafts,13.99,19.99,5.999999999999998
+17,1,18,11,Lego Bricks,Toys,34.99,39.99,5.0
+49,2,18,38,Lego Bricks,Toys,34.99,39.99,5.0
+78,3,18,52,Lego Bricks,Toys,34.99,39.99,5.0
+110,4,18,17,Lego Bricks,Toys,34.99,39.99,5.0
+142,5,18,9,Lego Bricks,Toys,34.99,39.99,5.0
+174,6,18,11,Lego Bricks,Toys,34.99,39.99,5.0
+209,7,18,31,Lego Bricks,Toys,34.99,39.99,5.0
+244,8,18,18,Lego Bricks,Toys,34.99,39.99,5.0
+279,9,18,8,Lego Bricks,Toys,34.99,39.99,5.0
+314,10,18,17,Lego Bricks,Toys,34.99,39.99,5.0
+346,11,18,34,Lego Bricks,Toys,34.99,39.99,5.0
+378,12,18,20,Lego Bricks,Toys,34.99,39.99,5.0
+410,13,18,47,Lego Bricks,Toys,34.99,39.99,5.0
+439,14,18,7,Lego Bricks,Toys,34.99,39.99,5.0
+468,15,18,34,Lego Bricks,Toys,34.99,39.99,5.0
+500,16,18,27,Lego Bricks,Toys,34.99,39.99,5.0
+532,17,18,27,Lego Bricks,Toys,34.99,39.99,5.0
+564,18,18,29,Lego Bricks,Toys,34.99,39.99,5.0
+599,19,18,19,Lego Bricks,Toys,34.99,39.99,5.0
+631,20,18,8,Lego Bricks,Toys,34.99,39.99,5.0
+660,21,18,6,Lego Bricks,Toys,34.99,39.99,5.0
+692,22,18,13,Lego Bricks,Toys,34.99,39.99,5.0
+727,23,18,42,Lego Bricks,Toys,34.99,39.99,5.0
+762,24,18,20,Lego Bricks,Toys,34.99,39.99,5.0
+794,25,18,34,Lego Bricks,Toys,34.99,39.99,5.0
+826,26,18,7,Lego Bricks,Toys,34.99,39.99,5.0
+858,27,18,18,Lego Bricks,Toys,34.99,39.99,5.0
+887,28,18,24,Lego Bricks,Toys,34.99,39.99,5.0
+916,29,18,26,Lego Bricks,Toys,34.99,39.99,5.0
+945,30,18,9,Lego Bricks,Toys,34.99,39.99,5.0
+974,31,18,2,Lego Bricks,Toys,34.99,39.99,5.0
+1003,32,18,40,Lego Bricks,Toys,34.99,39.99,5.0
+1035,33,18,15,Lego Bricks,Toys,34.99,39.99,5.0
+1070,34,18,12,Lego Bricks,Toys,34.99,39.99,5.0
+1102,35,18,11,Lego Bricks,Toys,34.99,39.99,5.0
+1134,36,18,4,Lego Bricks,Toys,34.99,39.99,5.0
+1169,37,18,6,Lego Bricks,Toys,34.99,39.99,5.0
+1204,38,18,10,Lego Bricks,Toys,34.99,39.99,5.0
+1236,39,18,22,Lego Bricks,Toys,34.99,39.99,5.0
+1265,40,18,26,Lego Bricks,Toys,34.99,39.99,5.0
+1297,41,18,9,Lego Bricks,Toys,34.99,39.99,5.0
+1332,42,18,21,Lego Bricks,Toys,34.99,39.99,5.0
+1364,43,18,16,Lego Bricks,Toys,34.99,39.99,5.0
+1392,44,18,117,Lego Bricks,Toys,34.99,39.99,5.0
+1415,45,18,14,Lego Bricks,Toys,34.99,39.99,5.0
+1444,46,18,21,Lego Bricks,Toys,34.99,39.99,5.0
+1473,47,18,12,Lego Bricks,Toys,34.99,39.99,5.0
+1505,48,18,10,Lego Bricks,Toys,34.99,39.99,5.0
+1540,49,18,36,Lego Bricks,Toys,34.99,39.99,5.0
+1575,50,18,51,Lego Bricks,Toys,34.99,39.99,5.0
+18,1,19,25,Magic Sand,Art & Crafts,13.99,15.99,2.0
+50,2,19,35,Magic Sand,Art & Crafts,13.99,15.99,2.0
+79,3,19,33,Magic Sand,Art & Crafts,13.99,15.99,2.0
+111,4,19,2,Magic Sand,Art & Crafts,13.99,15.99,2.0
+143,5,19,18,Magic Sand,Art & Crafts,13.99,15.99,2.0
+175,6,19,39,Magic Sand,Art & Crafts,13.99,15.99,2.0
+210,7,19,24,Magic Sand,Art & Crafts,13.99,15.99,2.0
+245,8,19,11,Magic Sand,Art & Crafts,13.99,15.99,2.0
+280,9,19,54,Magic Sand,Art & Crafts,13.99,15.99,2.0
+315,10,19,57,Magic Sand,Art & Crafts,13.99,15.99,2.0
+347,11,19,51,Magic Sand,Art & Crafts,13.99,15.99,2.0
+379,12,19,52,Magic Sand,Art & Crafts,13.99,15.99,2.0
+411,13,19,49,Magic Sand,Art & Crafts,13.99,15.99,2.0
+440,14,19,23,Magic Sand,Art & Crafts,13.99,15.99,2.0
+469,15,19,63,Magic Sand,Art & Crafts,13.99,15.99,2.0
+501,16,19,29,Magic Sand,Art & Crafts,13.99,15.99,2.0
+533,17,19,53,Magic Sand,Art & Crafts,13.99,15.99,2.0
+565,18,19,15,Magic Sand,Art & Crafts,13.99,15.99,2.0
+600,19,19,37,Magic Sand,Art & Crafts,13.99,15.99,2.0
+632,20,19,2,Magic Sand,Art & Crafts,13.99,15.99,2.0
+661,21,19,49,Magic Sand,Art & Crafts,13.99,15.99,2.0
+693,22,19,17,Magic Sand,Art & Crafts,13.99,15.99,2.0
+728,23,19,27,Magic Sand,Art & Crafts,13.99,15.99,2.0
+763,24,19,67,Magic Sand,Art & Crafts,13.99,15.99,2.0
+795,25,19,28,Magic Sand,Art & Crafts,13.99,15.99,2.0
+827,26,19,90,Magic Sand,Art & Crafts,13.99,15.99,2.0
+859,27,19,34,Magic Sand,Art & Crafts,13.99,15.99,2.0
+888,28,19,13,Magic Sand,Art & Crafts,13.99,15.99,2.0
+917,29,19,12,Magic Sand,Art & Crafts,13.99,15.99,2.0
+946,30,19,19,Magic Sand,Art & Crafts,13.99,15.99,2.0
+975,31,19,95,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1004,32,19,35,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1036,33,19,61,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1071,34,19,14,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1103,35,19,44,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1135,36,19,28,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1170,37,19,69,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1205,38,19,7,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1237,39,19,9,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1266,40,19,23,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1298,41,19,100,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1333,42,19,44,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1365,43,19,17,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1416,45,19,75,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1445,46,19,58,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1474,47,19,68,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1506,48,19,59,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1541,49,19,48,Magic Sand,Art & Crafts,13.99,15.99,2.0
+1576,50,19,40,Magic Sand,Art & Crafts,13.99,15.99,2.0
+19,1,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+112,4,20,13,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+176,6,20,9,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+211,7,20,7,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+246,8,20,5,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+281,9,20,4,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+316,10,20,4,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+380,12,20,15,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+502,16,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+566,18,20,3,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+601,19,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+694,22,20,18,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+729,23,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+764,24,20,7,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+828,26,20,6,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1037,33,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1072,34,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1136,36,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1171,37,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1206,38,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1299,41,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1334,42,20,8,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1507,48,20,10,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1542,49,20,13,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+1577,50,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,15.999999999999998
+20,1,21,21,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+51,2,21,20,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+80,3,21,3,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+113,4,21,24,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+144,5,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+177,6,21,36,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+212,7,21,49,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+247,8,21,37,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+282,9,21,12,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+317,10,21,16,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+348,11,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+381,12,21,15,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+412,13,21,9,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+441,14,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+470,15,21,12,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+503,16,21,54,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+534,17,21,27,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+567,18,21,29,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+602,19,21,24,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+633,20,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+662,21,21,14,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+695,22,21,30,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+730,23,21,30,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+765,24,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+796,25,21,5,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+829,26,21,26,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+860,27,21,2,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+889,28,21,11,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+918,29,21,10,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+947,30,21,18,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+976,31,21,6,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1005,32,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1038,33,21,13,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1073,34,21,22,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1104,35,21,6,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1137,36,21,33,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1172,37,21,53,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1207,38,21,63,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1238,39,21,5,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1267,40,21,10,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1300,41,21,29,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1335,42,21,69,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1366,43,21,9,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1417,45,21,14,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1446,46,21,2,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1475,47,21,25,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1508,48,21,8,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1543,49,21,37,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+1578,50,21,36,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,3.0
+21,1,22,2,Monopoly,Games,13.99,19.99,5.999999999999998
+114,4,22,5,Monopoly,Games,13.99,19.99,5.999999999999998
+178,6,22,5,Monopoly,Games,13.99,19.99,5.999999999999998
+213,7,22,8,Monopoly,Games,13.99,19.99,5.999999999999998
+248,8,22,13,Monopoly,Games,13.99,19.99,5.999999999999998
+283,9,22,9,Monopoly,Games,13.99,19.99,5.999999999999998
+318,10,22,13,Monopoly,Games,13.99,19.99,5.999999999999998
+382,12,22,4,Monopoly,Games,13.99,19.99,5.999999999999998
+504,16,22,9,Monopoly,Games,13.99,19.99,5.999999999999998
+568,18,22,18,Monopoly,Games,13.99,19.99,5.999999999999998
+603,19,22,3,Monopoly,Games,13.99,19.99,5.999999999999998
+696,22,22,4,Monopoly,Games,13.99,19.99,5.999999999999998
+731,23,22,11,Monopoly,Games,13.99,19.99,5.999999999999998
+766,24,22,13,Monopoly,Games,13.99,19.99,5.999999999999998
+830,26,22,5,Monopoly,Games,13.99,19.99,5.999999999999998
+1039,33,22,5,Monopoly,Games,13.99,19.99,5.999999999999998
+1074,34,22,15,Monopoly,Games,13.99,19.99,5.999999999999998
+1138,36,22,21,Monopoly,Games,13.99,19.99,5.999999999999998
+1173,37,22,9,Monopoly,Games,13.99,19.99,5.999999999999998
+1208,38,22,8,Monopoly,Games,13.99,19.99,5.999999999999998
+1301,41,22,9,Monopoly,Games,13.99,19.99,5.999999999999998
+1336,42,22,7,Monopoly,Games,13.99,19.99,5.999999999999998
+1509,48,22,2,Monopoly,Games,13.99,19.99,5.999999999999998
+1544,49,22,8,Monopoly,Games,13.99,19.99,5.999999999999998
+1579,50,22,1,Monopoly,Games,13.99,19.99,5.999999999999998
+22,1,23,1,Mr. Potatohead,Toys,4.99,9.99,5.0
+52,2,23,8,Mr. Potatohead,Toys,4.99,9.99,5.0
+81,3,23,13,Mr. Potatohead,Toys,4.99,9.99,5.0
+115,4,23,26,Mr. Potatohead,Toys,4.99,9.99,5.0
+145,5,23,11,Mr. Potatohead,Toys,4.99,9.99,5.0
+179,6,23,15,Mr. Potatohead,Toys,4.99,9.99,5.0
+214,7,23,9,Mr. Potatohead,Toys,4.99,9.99,5.0
+249,8,23,8,Mr. Potatohead,Toys,4.99,9.99,5.0
+284,9,23,31,Mr. Potatohead,Toys,4.99,9.99,5.0
+319,10,23,9,Mr. Potatohead,Toys,4.99,9.99,5.0
+349,11,23,23,Mr. Potatohead,Toys,4.99,9.99,5.0
+383,12,23,15,Mr. Potatohead,Toys,4.99,9.99,5.0
+413,13,23,6,Mr. Potatohead,Toys,4.99,9.99,5.0
+442,14,23,4,Mr. Potatohead,Toys,4.99,9.99,5.0
+471,15,23,18,Mr. Potatohead,Toys,4.99,9.99,5.0
+505,16,23,2,Mr. Potatohead,Toys,4.99,9.99,5.0
+535,17,23,13,Mr. Potatohead,Toys,4.99,9.99,5.0
+569,18,23,16,Mr. Potatohead,Toys,4.99,9.99,5.0
+604,19,23,10,Mr. Potatohead,Toys,4.99,9.99,5.0
+634,20,23,12,Mr. Potatohead,Toys,4.99,9.99,5.0
+663,21,23,30,Mr. Potatohead,Toys,4.99,9.99,5.0
+697,22,23,7,Mr. Potatohead,Toys,4.99,9.99,5.0
+732,23,23,8,Mr. Potatohead,Toys,4.99,9.99,5.0
+767,24,23,16,Mr. Potatohead,Toys,4.99,9.99,5.0
+797,25,23,10,Mr. Potatohead,Toys,4.99,9.99,5.0
+831,26,23,4,Mr. Potatohead,Toys,4.99,9.99,5.0
+861,27,23,16,Mr. Potatohead,Toys,4.99,9.99,5.0
+890,28,23,24,Mr. Potatohead,Toys,4.99,9.99,5.0
+919,29,23,37,Mr. Potatohead,Toys,4.99,9.99,5.0
+948,30,23,12,Mr. Potatohead,Toys,4.99,9.99,5.0
+977,31,23,9,Mr. Potatohead,Toys,4.99,9.99,5.0
+1006,32,23,23,Mr. Potatohead,Toys,4.99,9.99,5.0
+1040,33,23,22,Mr. Potatohead,Toys,4.99,9.99,5.0
+1075,34,23,13,Mr. Potatohead,Toys,4.99,9.99,5.0
+1105,35,23,5,Mr. Potatohead,Toys,4.99,9.99,5.0
+1139,36,23,19,Mr. Potatohead,Toys,4.99,9.99,5.0
+1174,37,23,0,Mr. Potatohead,Toys,4.99,9.99,5.0
+1209,38,23,27,Mr. Potatohead,Toys,4.99,9.99,5.0
+1239,39,23,5,Mr. Potatohead,Toys,4.99,9.99,5.0
+1268,40,23,10,Mr. Potatohead,Toys,4.99,9.99,5.0
+1302,41,23,19,Mr. Potatohead,Toys,4.99,9.99,5.0
+1337,42,23,31,Mr. Potatohead,Toys,4.99,9.99,5.0
+1367,43,23,2,Mr. Potatohead,Toys,4.99,9.99,5.0
+1418,45,23,16,Mr. Potatohead,Toys,4.99,9.99,5.0
+1447,46,23,23,Mr. Potatohead,Toys,4.99,9.99,5.0
+1476,47,23,29,Mr. Potatohead,Toys,4.99,9.99,5.0
+1510,48,23,1,Mr. Potatohead,Toys,4.99,9.99,5.0
+1545,49,23,18,Mr. Potatohead,Toys,4.99,9.99,5.0
+1580,50,23,23,Mr. Potatohead,Toys,4.99,9.99,5.0
+23,1,24,9,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+53,2,24,39,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+82,3,24,15,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+116,4,24,20,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+146,5,24,60,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+180,6,24,15,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+215,7,24,25,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+250,8,24,7,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+285,9,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+320,10,24,20,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+350,11,24,39,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+384,12,24,34,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+414,13,24,24,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+443,14,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+472,15,24,35,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+506,16,24,6,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+536,17,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+570,18,24,26,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+605,19,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+635,20,24,18,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+664,21,24,19,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+698,22,24,29,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+733,23,24,40,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+768,24,24,4,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+798,25,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+832,26,24,11,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+862,27,24,46,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+891,28,24,19,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+920,29,24,14,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+949,30,24,23,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+978,31,24,29,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1007,32,24,42,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1041,33,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1076,34,24,28,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1106,35,24,44,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1140,36,24,9,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1175,37,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1210,38,24,11,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1240,39,24,58,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1269,40,24,33,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1303,41,24,4,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1338,42,24,69,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1368,43,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1393,44,24,6,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1419,45,24,26,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1448,46,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1477,47,24,24,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1511,48,24,40,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1546,49,24,23,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+1581,50,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,4.999999999999998
+24,1,25,54,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+54,2,25,32,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+83,3,25,44,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+117,4,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+147,5,25,9,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+181,6,25,62,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+216,7,25,10,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+251,8,25,71,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+286,9,25,4,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+321,10,25,68,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+351,11,25,70,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+385,12,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+415,13,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+444,14,25,15,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+473,15,25,43,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+507,16,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+537,17,25,59,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+571,18,25,74,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+606,19,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+636,20,25,92,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+665,21,25,46,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+699,22,25,6,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+734,23,25,38,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+769,24,25,48,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+799,25,25,80,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+833,26,25,71,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+863,27,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+892,28,25,10,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+921,29,25,47,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+950,30,25,6,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+979,31,25,94,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1008,32,25,20,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1042,33,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1077,34,25,131,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1107,35,25,14,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1141,36,25,125,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1176,37,25,34,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1211,38,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1241,39,25,40,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1270,40,25,13,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1304,41,25,19,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1339,42,25,46,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1369,43,25,55,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1394,44,25,26,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1420,45,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1449,46,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1478,47,25,14,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1512,48,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1547,49,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+1582,50,25,34,PlayDoh Can,Art & Crafts,1.99,2.99,1.0000000000000002
+25,1,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+55,2,26,12,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+84,3,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+118,4,26,10,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+148,5,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+182,6,26,7,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+217,7,26,16,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+252,8,26,20,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+287,9,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+322,10,26,9,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+352,11,26,10,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+386,12,26,20,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+416,13,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+445,14,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+474,15,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+508,16,26,19,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+538,17,26,25,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+572,18,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+607,19,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+637,20,26,12,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+666,21,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+700,22,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+735,23,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+770,24,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+800,25,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+834,26,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+864,27,26,6,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+893,28,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+922,29,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+951,30,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+980,31,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1009,32,26,11,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1043,33,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1078,34,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1108,35,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1142,36,26,7,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1177,37,26,11,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1212,38,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1242,39,26,8,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1271,40,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1305,41,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1340,42,26,18,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1370,43,26,6,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1421,45,26,14,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1450,46,26,14,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1479,47,26,23,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1513,48,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1548,49,26,19,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+1583,50,26,9,PlayDoh Playset,Art & Crafts,20.99,24.99,4.0
+26,1,27,33,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+56,2,27,30,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+85,3,27,23,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+119,4,27,19,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+149,5,27,45,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+183,6,27,37,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+218,7,27,48,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+253,8,27,47,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+288,9,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+323,10,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+353,11,27,28,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+387,12,27,36,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+417,13,27,56,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+446,14,27,34,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+475,15,27,26,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+509,16,27,15,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+539,17,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+573,18,27,40,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+608,19,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+638,20,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+667,21,27,54,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+701,22,27,45,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+736,23,27,7,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+771,24,27,50,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+801,25,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+835,26,27,8,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+865,27,27,11,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+894,28,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+923,29,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+952,30,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+981,31,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1010,32,27,53,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1044,33,27,6,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1079,34,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1109,35,27,16,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1143,36,27,46,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1178,37,27,18,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1213,38,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1243,39,27,16,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1272,40,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1306,41,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1341,42,27,23,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1371,43,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1395,44,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1422,45,27,14,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1451,46,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1480,47,27,36,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1514,48,27,17,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1549,49,27,32,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+1584,50,27,14,PlayDoh Toolkit,Art & Crafts,3.99,4.99,1.0
+27,1,28,10,Playfoam,Art & Crafts,3.99,10.99,7.0
+57,2,28,2,Playfoam,Art & Crafts,3.99,10.99,7.0
+86,3,28,10,Playfoam,Art & Crafts,3.99,10.99,7.0
+120,4,28,6,Playfoam,Art & Crafts,3.99,10.99,7.0
+150,5,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+184,6,28,2,Playfoam,Art & Crafts,3.99,10.99,7.0
+219,7,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+254,8,28,20,Playfoam,Art & Crafts,3.99,10.99,7.0
+289,9,28,9,Playfoam,Art & Crafts,3.99,10.99,7.0
+324,10,28,19,Playfoam,Art & Crafts,3.99,10.99,7.0
+354,11,28,11,Playfoam,Art & Crafts,3.99,10.99,7.0
+388,12,28,10,Playfoam,Art & Crafts,3.99,10.99,7.0
+418,13,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+447,14,28,22,Playfoam,Art & Crafts,3.99,10.99,7.0
+476,15,28,2,Playfoam,Art & Crafts,3.99,10.99,7.0
+510,16,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+540,17,28,3,Playfoam,Art & Crafts,3.99,10.99,7.0
+574,18,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+609,19,28,6,Playfoam,Art & Crafts,3.99,10.99,7.0
+639,20,28,3,Playfoam,Art & Crafts,3.99,10.99,7.0
+668,21,28,7,Playfoam,Art & Crafts,3.99,10.99,7.0
+702,22,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+737,23,28,48,Playfoam,Art & Crafts,3.99,10.99,7.0
+772,24,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+802,25,28,16,Playfoam,Art & Crafts,3.99,10.99,7.0
+836,26,28,26,Playfoam,Art & Crafts,3.99,10.99,7.0
+866,27,28,8,Playfoam,Art & Crafts,3.99,10.99,7.0
+895,28,28,3,Playfoam,Art & Crafts,3.99,10.99,7.0
+924,29,28,1,Playfoam,Art & Crafts,3.99,10.99,7.0
+953,30,28,3,Playfoam,Art & Crafts,3.99,10.99,7.0
+982,31,28,10,Playfoam,Art & Crafts,3.99,10.99,7.0
+1011,32,28,5,Playfoam,Art & Crafts,3.99,10.99,7.0
+1045,33,28,5,Playfoam,Art & Crafts,3.99,10.99,7.0
+1080,34,28,13,Playfoam,Art & Crafts,3.99,10.99,7.0
+1110,35,28,20,Playfoam,Art & Crafts,3.99,10.99,7.0
+1144,36,28,7,Playfoam,Art & Crafts,3.99,10.99,7.0
+1179,37,28,4,Playfoam,Art & Crafts,3.99,10.99,7.0
+1214,38,28,26,Playfoam,Art & Crafts,3.99,10.99,7.0
+1244,39,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+1273,40,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+1307,41,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+1342,42,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+1372,43,28,4,Playfoam,Art & Crafts,3.99,10.99,7.0
+1423,45,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+1452,46,28,1,Playfoam,Art & Crafts,3.99,10.99,7.0
+1481,47,28,4,Playfoam,Art & Crafts,3.99,10.99,7.0
+1515,48,28,1,Playfoam,Art & Crafts,3.99,10.99,7.0
+1550,49,28,10,Playfoam,Art & Crafts,3.99,10.99,7.0
+1585,50,28,0,Playfoam,Art & Crafts,3.99,10.99,7.0
+28,1,29,4,Plush Pony,Toys,8.99,19.99,10.999999999999998
+58,2,29,5,Plush Pony,Toys,8.99,19.99,10.999999999999998
+87,3,29,0,Plush Pony,Toys,8.99,19.99,10.999999999999998
+121,4,29,20,Plush Pony,Toys,8.99,19.99,10.999999999999998
+151,5,29,8,Plush Pony,Toys,8.99,19.99,10.999999999999998
+185,6,29,10,Plush Pony,Toys,8.99,19.99,10.999999999999998
+220,7,29,8,Plush Pony,Toys,8.99,19.99,10.999999999999998
+255,8,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+290,9,29,8,Plush Pony,Toys,8.99,19.99,10.999999999999998
+325,10,29,12,Plush Pony,Toys,8.99,19.99,10.999999999999998
+355,11,29,4,Plush Pony,Toys,8.99,19.99,10.999999999999998
+389,12,29,19,Plush Pony,Toys,8.99,19.99,10.999999999999998
+419,13,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+448,14,29,0,Plush Pony,Toys,8.99,19.99,10.999999999999998
+477,15,29,13,Plush Pony,Toys,8.99,19.99,10.999999999999998
+511,16,29,7,Plush Pony,Toys,8.99,19.99,10.999999999999998
+541,17,29,16,Plush Pony,Toys,8.99,19.99,10.999999999999998
+575,18,29,28,Plush Pony,Toys,8.99,19.99,10.999999999999998
+610,19,29,29,Plush Pony,Toys,8.99,19.99,10.999999999999998
+640,20,29,9,Plush Pony,Toys,8.99,19.99,10.999999999999998
+669,21,29,8,Plush Pony,Toys,8.99,19.99,10.999999999999998
+703,22,29,5,Plush Pony,Toys,8.99,19.99,10.999999999999998
+738,23,29,9,Plush Pony,Toys,8.99,19.99,10.999999999999998
+773,24,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+803,25,29,6,Plush Pony,Toys,8.99,19.99,10.999999999999998
+837,26,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+867,27,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+896,28,29,5,Plush Pony,Toys,8.99,19.99,10.999999999999998
+925,29,29,6,Plush Pony,Toys,8.99,19.99,10.999999999999998
+954,30,29,19,Plush Pony,Toys,8.99,19.99,10.999999999999998
+983,31,29,28,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1012,32,29,4,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1046,33,29,9,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1081,34,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1111,35,29,11,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1145,36,29,14,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1180,37,29,5,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1215,38,29,25,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1245,39,29,16,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1274,40,29,1,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1308,41,29,0,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1343,42,29,35,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1373,43,29,9,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1424,45,29,4,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1453,46,29,3,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1482,47,29,10,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1516,48,29,20,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1551,49,29,12,Plush Pony,Toys,8.99,19.99,10.999999999999998
+1586,50,29,15,Plush Pony,Toys,8.99,19.99,10.999999999999998
+29,1,30,44,Rubik's Cube,Games,17.99,19.99,2.0
+59,2,30,50,Rubik's Cube,Games,17.99,19.99,2.0
+88,3,30,43,Rubik's Cube,Games,17.99,19.99,2.0
+122,4,30,28,Rubik's Cube,Games,17.99,19.99,2.0
+152,5,30,39,Rubik's Cube,Games,17.99,19.99,2.0
+186,6,30,67,Rubik's Cube,Games,17.99,19.99,2.0
+221,7,30,27,Rubik's Cube,Games,17.99,19.99,2.0
+256,8,30,13,Rubik's Cube,Games,17.99,19.99,2.0
+291,9,30,11,Rubik's Cube,Games,17.99,19.99,2.0
+326,10,30,42,Rubik's Cube,Games,17.99,19.99,2.0
+356,11,30,10,Rubik's Cube,Games,17.99,19.99,2.0
+390,12,30,45,Rubik's Cube,Games,17.99,19.99,2.0
+420,13,30,17,Rubik's Cube,Games,17.99,19.99,2.0
+449,14,30,10,Rubik's Cube,Games,17.99,19.99,2.0
+478,15,30,13,Rubik's Cube,Games,17.99,19.99,2.0
+512,16,30,49,Rubik's Cube,Games,17.99,19.99,2.0
+542,17,30,22,Rubik's Cube,Games,17.99,19.99,2.0
+576,18,30,15,Rubik's Cube,Games,17.99,19.99,2.0
+611,19,30,7,Rubik's Cube,Games,17.99,19.99,2.0
+641,20,30,17,Rubik's Cube,Games,17.99,19.99,2.0
+670,21,30,49,Rubik's Cube,Games,17.99,19.99,2.0
+704,22,30,22,Rubik's Cube,Games,17.99,19.99,2.0
+739,23,30,38,Rubik's Cube,Games,17.99,19.99,2.0
+774,24,30,50,Rubik's Cube,Games,17.99,19.99,2.0
+804,25,30,46,Rubik's Cube,Games,17.99,19.99,2.0
+838,26,30,46,Rubik's Cube,Games,17.99,19.99,2.0
+868,27,30,37,Rubik's Cube,Games,17.99,19.99,2.0
+897,28,30,27,Rubik's Cube,Games,17.99,19.99,2.0
+926,29,30,32,Rubik's Cube,Games,17.99,19.99,2.0
+955,30,30,21,Rubik's Cube,Games,17.99,19.99,2.0
+984,31,30,66,Rubik's Cube,Games,17.99,19.99,2.0
+1013,32,30,28,Rubik's Cube,Games,17.99,19.99,2.0
+1047,33,30,39,Rubik's Cube,Games,17.99,19.99,2.0
+1082,34,30,53,Rubik's Cube,Games,17.99,19.99,2.0
+1112,35,30,10,Rubik's Cube,Games,17.99,19.99,2.0
+1146,36,30,15,Rubik's Cube,Games,17.99,19.99,2.0
+1181,37,30,35,Rubik's Cube,Games,17.99,19.99,2.0
+1216,38,30,7,Rubik's Cube,Games,17.99,19.99,2.0
+1246,39,30,19,Rubik's Cube,Games,17.99,19.99,2.0
+1275,40,30,28,Rubik's Cube,Games,17.99,19.99,2.0
+1309,41,30,74,Rubik's Cube,Games,17.99,19.99,2.0
+1344,42,30,9,Rubik's Cube,Games,17.99,19.99,2.0
+1374,43,30,14,Rubik's Cube,Games,17.99,19.99,2.0
+1396,44,30,26,Rubik's Cube,Games,17.99,19.99,2.0
+1425,45,30,36,Rubik's Cube,Games,17.99,19.99,2.0
+1454,46,30,9,Rubik's Cube,Games,17.99,19.99,2.0
+1483,47,30,36,Rubik's Cube,Games,17.99,19.99,2.0
+1517,48,30,49,Rubik's Cube,Games,17.99,19.99,2.0
+1552,49,30,3,Rubik's Cube,Games,17.99,19.99,2.0
+1587,50,30,4,Rubik's Cube,Games,17.99,19.99,2.0
+30,1,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+60,2,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+89,3,31,29,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+123,4,31,35,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+153,5,31,31,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+187,6,31,17,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+222,7,31,15,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+257,8,31,27,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+292,9,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+327,10,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+357,11,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+391,12,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+421,13,31,24,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+450,14,31,5,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+479,15,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+513,16,31,14,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+543,17,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+577,18,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+612,19,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+642,20,31,10,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+671,21,31,19,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+705,22,31,34,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+740,23,31,19,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+775,24,31,10,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+805,25,31,0,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+839,26,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+869,27,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+898,28,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+927,29,31,3,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+956,30,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+985,31,31,39,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1014,32,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1048,33,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1083,34,31,30,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1113,35,31,74,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1147,36,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1182,37,31,14,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1217,38,31,17,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1247,39,31,15,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1276,40,31,5,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1310,41,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1345,42,31,11,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1375,43,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1397,44,31,8,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1426,45,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1455,46,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1484,47,31,48,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1518,48,31,41,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1553,49,31,51,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+1588,50,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,1.0
+31,1,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+61,2,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+90,3,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+124,4,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+154,5,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+188,6,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+223,7,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+258,8,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+293,9,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+328,10,32,13,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+358,11,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+392,12,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+422,13,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+451,14,32,2,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+480,15,32,16,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+514,16,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+544,17,32,15,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+578,18,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+613,19,32,5,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+643,20,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+672,21,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+706,22,32,38,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+741,23,32,11,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+776,24,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+806,25,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+840,26,32,2,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+870,27,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+899,28,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+928,29,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+957,30,32,13,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+986,31,32,12,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1015,32,32,8,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1049,33,32,15,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1084,34,32,19,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1114,35,32,20,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1148,36,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1183,37,32,0,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1218,38,32,20,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1248,39,32,5,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1277,40,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1311,41,32,29,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1346,42,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1376,43,32,38,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1398,44,32,29,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1427,45,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1456,46,32,8,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1485,47,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1519,48,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1554,49,32,11,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+1589,50,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,3.0
+32,1,33,2,Teddy Bear,Toys,10.99,12.99,2.0
+62,2,33,11,Teddy Bear,Toys,10.99,12.99,2.0
+91,3,33,4,Teddy Bear,Toys,10.99,12.99,2.0
+125,4,33,2,Teddy Bear,Toys,10.99,12.99,2.0
+155,5,33,17,Teddy Bear,Toys,10.99,12.99,2.0
+189,6,33,7,Teddy Bear,Toys,10.99,12.99,2.0
+224,7,33,18,Teddy Bear,Toys,10.99,12.99,2.0
+259,8,33,17,Teddy Bear,Toys,10.99,12.99,2.0
+294,9,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+329,10,33,12,Teddy Bear,Toys,10.99,12.99,2.0
+359,11,33,6,Teddy Bear,Toys,10.99,12.99,2.0
+393,12,33,5,Teddy Bear,Toys,10.99,12.99,2.0
+423,13,33,3,Teddy Bear,Toys,10.99,12.99,2.0
+452,14,33,2,Teddy Bear,Toys,10.99,12.99,2.0
+481,15,33,8,Teddy Bear,Toys,10.99,12.99,2.0
+515,16,33,6,Teddy Bear,Toys,10.99,12.99,2.0
+545,17,33,27,Teddy Bear,Toys,10.99,12.99,2.0
+579,18,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+614,19,33,0,Teddy Bear,Toys,10.99,12.99,2.0
+644,20,33,28,Teddy Bear,Toys,10.99,12.99,2.0
+673,21,33,16,Teddy Bear,Toys,10.99,12.99,2.0
+707,22,33,8,Teddy Bear,Toys,10.99,12.99,2.0
+742,23,33,6,Teddy Bear,Toys,10.99,12.99,2.0
+777,24,33,4,Teddy Bear,Toys,10.99,12.99,2.0
+807,25,33,4,Teddy Bear,Toys,10.99,12.99,2.0
+841,26,33,2,Teddy Bear,Toys,10.99,12.99,2.0
+871,27,33,7,Teddy Bear,Toys,10.99,12.99,2.0
+900,28,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+929,29,33,6,Teddy Bear,Toys,10.99,12.99,2.0
+958,30,33,10,Teddy Bear,Toys,10.99,12.99,2.0
+987,31,33,20,Teddy Bear,Toys,10.99,12.99,2.0
+1016,32,33,13,Teddy Bear,Toys,10.99,12.99,2.0
+1050,33,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+1085,34,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+1115,35,33,14,Teddy Bear,Toys,10.99,12.99,2.0
+1149,36,33,21,Teddy Bear,Toys,10.99,12.99,2.0
+1184,37,33,10,Teddy Bear,Toys,10.99,12.99,2.0
+1219,38,33,9,Teddy Bear,Toys,10.99,12.99,2.0
+1249,39,33,14,Teddy Bear,Toys,10.99,12.99,2.0
+1278,40,33,16,Teddy Bear,Toys,10.99,12.99,2.0
+1312,41,33,13,Teddy Bear,Toys,10.99,12.99,2.0
+1347,42,33,18,Teddy Bear,Toys,10.99,12.99,2.0
+1377,43,33,5,Teddy Bear,Toys,10.99,12.99,2.0
+1399,44,33,0,Teddy Bear,Toys,10.99,12.99,2.0
+1428,45,33,7,Teddy Bear,Toys,10.99,12.99,2.0
+1457,46,33,11,Teddy Bear,Toys,10.99,12.99,2.0
+1486,47,33,13,Teddy Bear,Toys,10.99,12.99,2.0
+1520,48,33,0,Teddy Bear,Toys,10.99,12.99,2.0
+1555,49,33,15,Teddy Bear,Toys,10.99,12.99,2.0
+1590,50,33,1,Teddy Bear,Toys,10.99,12.99,2.0
+33,1,34,0,Toy Robot,Electronics,20.99,25.99,5.0
+63,2,34,18,Toy Robot,Electronics,20.99,25.99,5.0
+92,3,34,7,Toy Robot,Electronics,20.99,25.99,5.0
+126,4,34,0,Toy Robot,Electronics,20.99,25.99,5.0
+156,5,34,10,Toy Robot,Electronics,20.99,25.99,5.0
+190,6,34,8,Toy Robot,Electronics,20.99,25.99,5.0
+225,7,34,2,Toy Robot,Electronics,20.99,25.99,5.0
+260,8,34,18,Toy Robot,Electronics,20.99,25.99,5.0
+295,9,34,5,Toy Robot,Electronics,20.99,25.99,5.0
+330,10,34,16,Toy Robot,Electronics,20.99,25.99,5.0
+360,11,34,9,Toy Robot,Electronics,20.99,25.99,5.0
+394,12,34,9,Toy Robot,Electronics,20.99,25.99,5.0
+424,13,34,3,Toy Robot,Electronics,20.99,25.99,5.0
+453,14,34,8,Toy Robot,Electronics,20.99,25.99,5.0
+482,15,34,7,Toy Robot,Electronics,20.99,25.99,5.0
+516,16,34,2,Toy Robot,Electronics,20.99,25.99,5.0
+546,17,34,11,Toy Robot,Electronics,20.99,25.99,5.0
+580,18,34,8,Toy Robot,Electronics,20.99,25.99,5.0
+615,19,34,15,Toy Robot,Electronics,20.99,25.99,5.0
+645,20,34,19,Toy Robot,Electronics,20.99,25.99,5.0
+674,21,34,16,Toy Robot,Electronics,20.99,25.99,5.0
+708,22,34,6,Toy Robot,Electronics,20.99,25.99,5.0
+743,23,34,18,Toy Robot,Electronics,20.99,25.99,5.0
+778,24,34,17,Toy Robot,Electronics,20.99,25.99,5.0
+808,25,34,23,Toy Robot,Electronics,20.99,25.99,5.0
+842,26,34,17,Toy Robot,Electronics,20.99,25.99,5.0
+872,27,34,9,Toy Robot,Electronics,20.99,25.99,5.0
+901,28,34,19,Toy Robot,Electronics,20.99,25.99,5.0
+930,29,34,16,Toy Robot,Electronics,20.99,25.99,5.0
+959,30,34,18,Toy Robot,Electronics,20.99,25.99,5.0
+988,31,34,20,Toy Robot,Electronics,20.99,25.99,5.0
+1017,32,34,20,Toy Robot,Electronics,20.99,25.99,5.0
+1051,33,34,14,Toy Robot,Electronics,20.99,25.99,5.0
+1086,34,34,17,Toy Robot,Electronics,20.99,25.99,5.0
+1116,35,34,9,Toy Robot,Electronics,20.99,25.99,5.0
+1150,36,34,2,Toy Robot,Electronics,20.99,25.99,5.0
+1185,37,34,13,Toy Robot,Electronics,20.99,25.99,5.0
+1220,38,34,18,Toy Robot,Electronics,20.99,25.99,5.0
+1250,39,34,4,Toy Robot,Electronics,20.99,25.99,5.0
+1279,40,34,5,Toy Robot,Electronics,20.99,25.99,5.0
+1313,41,34,15,Toy Robot,Electronics,20.99,25.99,5.0
+1348,42,34,34,Toy Robot,Electronics,20.99,25.99,5.0
+1378,43,34,7,Toy Robot,Electronics,20.99,25.99,5.0
+1400,44,34,22,Toy Robot,Electronics,20.99,25.99,5.0
+1429,45,34,3,Toy Robot,Electronics,20.99,25.99,5.0
+1458,46,34,24,Toy Robot,Electronics,20.99,25.99,5.0
+1487,47,34,3,Toy Robot,Electronics,20.99,25.99,5.0
+1521,48,34,39,Toy Robot,Electronics,20.99,25.99,5.0
+1556,49,34,2,Toy Robot,Electronics,20.99,25.99,5.0
+1591,50,34,17,Toy Robot,Electronics,20.99,25.99,5.0
+34,1,35,12,Uno Card Game,Games,3.99,7.99,4.0
+127,4,35,4,Uno Card Game,Games,3.99,7.99,4.0
+191,6,35,3,Uno Card Game,Games,3.99,7.99,4.0
+226,7,35,17,Uno Card Game,Games,3.99,7.99,4.0
+261,8,35,8,Uno Card Game,Games,3.99,7.99,4.0
+296,9,35,4,Uno Card Game,Games,3.99,7.99,4.0
+331,10,35,2,Uno Card Game,Games,3.99,7.99,4.0
+395,12,35,9,Uno Card Game,Games,3.99,7.99,4.0
+517,16,35,6,Uno Card Game,Games,3.99,7.99,4.0
+581,18,35,10,Uno Card Game,Games,3.99,7.99,4.0
+616,19,35,14,Uno Card Game,Games,3.99,7.99,4.0
+709,22,35,2,Uno Card Game,Games,3.99,7.99,4.0
+744,23,35,4,Uno Card Game,Games,3.99,7.99,4.0
+779,24,35,19,Uno Card Game,Games,3.99,7.99,4.0
+843,26,35,8,Uno Card Game,Games,3.99,7.99,4.0
+1052,33,35,18,Uno Card Game,Games,3.99,7.99,4.0
+1087,34,35,20,Uno Card Game,Games,3.99,7.99,4.0
+1151,36,35,12,Uno Card Game,Games,3.99,7.99,4.0
+1186,37,35,14,Uno Card Game,Games,3.99,7.99,4.0
+1221,38,35,2,Uno Card Game,Games,3.99,7.99,4.0
+1314,41,35,10,Uno Card Game,Games,3.99,7.99,4.0
+1349,42,35,13,Uno Card Game,Games,3.99,7.99,4.0
+1522,48,35,3,Uno Card Game,Games,3.99,7.99,4.0
+1557,49,35,19,Uno Card Game,Games,3.99,7.99,4.0
+1592,50,35,8,Uno Card Game,Games,3.99,7.99,4.0
